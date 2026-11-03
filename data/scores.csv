@@ -1,0 +1,5 @@
+semester,course_code,course_name,assessment,marks_obtained,max_marks,grade,date
+Semester 1,MA101,Engineering Mathematics I,IA 1,24,30,A,2026-10-20
+Semester 1,PH101,Engineering Physics,IA 1,25,30,A,2026-10-22
+Semester 1,CS101,Programming Fundamentals,Assignment 1,18,20,A,2026-10-25
+Semester 1,CH101,Engineering Chemistry,IA 1,22,30,B,2026-10-27
