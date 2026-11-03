@@ -1,9 +1,9 @@
-semester,academic_year,status,notes
-Semester 1,2026-27,In Progress,First semester
-Semester 2,2026-27,Not started,Second semester
-Semester 3,2027-28,Not started,Third semester
-Semester 4,2027-28,Not started,Fourth semester
-Semester 5,2028-29,Not started,Fifth semester
-Semester 6,2028-29,Not started,Sixth semester
-Semester 7,2029-30,Not started,Seventh semester
-Semester 8,2029-30,Not started,Final semester
+semester,status,total_credits,completed_credits
+1,Completed,24,24
+2,Completed,24,24
+3,In Progress,24,12
+4,Not Started,24,0
+5,Not Started,24,0
+6,Not Started,24,0
+7,Not Started,24,0
+8,Not Started,24,0

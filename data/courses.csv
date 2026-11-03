@@ -1,15 +1,25 @@
-semester,course_code,course_name,credits,faculty,syllabus_topics,status
-Semester 1,MA101,Engineering Mathematics I,4,Mathematics,Calculus and Matrices,In Progress
-Semester 1,PH101,Engineering Physics,4,Physics,Optics and Mechanics,Not started
-Semester 1,CS101,Programming Fundamentals,3,Computer Science,Variables and Loops,Not started
-Semester 1,CH101,Engineering Chemistry,3,Chemistry,Atomic Structure and Materials,Not started
-Semester 2,MA102,Engineering Mathematics II,4,Mathematics,Differential Equations,Not started
-Semester 2,EC102,Basic Electronics,3,Electronics,Diodes and Transistors,Not started
-Semester 2,ME102,Engineering Mechanics,3,Mechanical,Statics and Dynamics,Not started
-Semester 3,CS201,Data Structures,4,Computer Science,Arrays and Linked Lists,Not started
-Semester 3,CS202,Digital Electronics,3,Electronics,Logic Gates and Boolean Algebra,Not started
-Semester 4,CS301,Database Management Systems,4,Computer Science,SQL and Normalization,Not started
-Semester 5,CS401,Operating Systems,4,Computer Science,Processes and Memory Management,Not started
-Semester 6,CS501,Computer Networks,4,Computer Science,Networking and Protocols,Not started
-Semester 7,CS601,Machine Learning,4,Computer Science,Regression and Classification,Not started
-Semester 8,CS701,Final Year Project,6,Project Guide,Project Development and Documentation,Not started
+semester,course_code,course_name,credits,faculty,syllabus,status
+1,MA101,Engineering Mathematics I,4,To be updated,Matrices; calculus; differential equations,Completed
+1,PH101,Engineering Physics,4,To be updated,Waves; optics; semiconductors,Completed
+1,CS101,Programming Fundamentals,4,To be updated,Algorithms; variables; control statements,Completed
+2,MA201,Engineering Mathematics II,4,To be updated,Integral calculus; transforms; series,Completed
+2,CS201,Data Structures,4,To be updated,Arrays; stacks; queues; linked lists,Completed
+2,EC201,Digital Electronics,3,To be updated,Number systems; Boolean algebra; logic gates,Completed
+3,CS301,Operating Systems,4,To be updated,Processes; threads; scheduling; memory management,In Progress
+3,CS302,Database Management Systems,4,To be updated,ER model; SQL; normalization; transactions,Not Started
+3,CS303,Computer Organization,3,To be updated,Processor; memory; instruction cycles,Not Started
+4,CS401,Design and Analysis of Algorithms,4,To be updated,Complexity; sorting; graphs; dynamic programming,Not Started
+4,CS402,Computer Networks,4,To be updated,OSI model; TCP/IP; routing; protocols,Not Started
+4,CS403,Object Oriented Programming,3,To be updated,Classes; inheritance; polymorphism; exceptions,Not Started
+5,CS501,Software Engineering,4,To be updated,SDLC; requirements; design; testing,Not Started
+5,CS502,Theory of Computation,4,To be updated,Automata; grammars; Turing machines,Not Started
+5,CS503,Web Technologies,3,To be updated,HTML; CSS; JavaScript; web services,Not Started
+6,CS601,Machine Learning,4,To be updated,Regression; classification; clustering; evaluation,Not Started
+6,CS602,Compiler Design,4,To be updated,Lexical analysis; parsing; code generation,Not Started
+6,CS603,Cloud Computing,3,To be updated,Virtualization; services; deployment,Not Started
+7,CS701,Artificial Intelligence,4,To be updated,Search; knowledge representation; reasoning,Not Started
+7,CS702,Cyber Security,4,To be updated,Threats; cryptography; network security,Not Started
+7,CS703,Project Phase I,3,To be updated,Problem definition; literature review; design,Not Started
+8,CS801,Project Phase II,8,To be updated,Implementation; testing; documentation; presentation,Not Started
+8,CS802,Professional Elective,4,To be updated,Topics depend on selected elective,Not Started
+8,CS803,Internship / Seminar,2,To be updated,Industry exposure; technical presentation,Not Started

@@ -1,7 +1,6 @@
-task,category,due_date,priority,completed,notes
-Complete Mathematics Unit 1,Study,2026-11-05,High,False,Revise important problems
-Complete Physics Unit 1,Study,2026-11-07,High,False,Prepare notes
-Practice Programming Exercises,Practice,2026-11-08,High,False,Solve 10 programs
-Complete Chemistry Assignment,Assignment,2026-11-09,Medium,False,Submit assignment
-Prepare for IA 1,Examination,2026-11-10,High,False,Revise all subjects
-Organize Study Materials,Personal,2026-11-12,Low,True,Arrange notes
+category,item,target_date,status,notes
+Semester Preparation,Download and review current syllabus,2026-11-04,In Progress,Replace sample details with official syllabus
+Assessments,Prepare for IA1 - Operating Systems,2026-11-09,Not Started,Revise processes and threads
+Projects,Choose mini-project problem statement,2026-11-12,Not Started,Discuss with project guide
+Documents,Organise marksheets and certificates,2026-12-01,Not Started,
+Skills,Complete one programming practice set,2026-11-15,Not Started,

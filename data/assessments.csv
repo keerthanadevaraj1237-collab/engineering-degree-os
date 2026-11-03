@@ -1,8 +1,6 @@
-semester,course_code,course_name,assessment,due_date,max_marks,status
-Semester 1,MA101,Engineering Mathematics I,IA 1,2026-11-10,30,Upcoming
-Semester 1,PH101,Engineering Physics,IA 1,2026-11-12,30,Upcoming
-Semester 1,CS101,Programming Fundamentals,Assignment 1,2026-11-15,20,Pending
-Semester 1,CH101,Engineering Chemistry,IA 1,2026-11-18,30,Upcoming
-Semester 1,MA101,Engineering Mathematics I,IA 2,2026-12-05,30,Pending
-Semester 2,MA102,Engineering Mathematics II,IA 1,,30,Pending
-Semester 3,CS201,Data Structures,Lab Assessment,,25,Pending
+semester,course_code,assessment_type,date,max_marks,status
+3,CS301,IA1,2026-11-10,30,Planned
+3,CS302,Assignment,2026-11-18,10,Planned
+3,CS303,Lab Evaluation,2026-11-24,25,Planned
+3,CS301,IA2,2026-12-02,30,Planned
+3,CS302,End Semester Exam,2026-12-15,100,Planned

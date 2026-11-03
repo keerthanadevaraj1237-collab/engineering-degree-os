@@ -1,6 +1,4 @@
-event_date,event,category,notes
-2026-11-10,Internal Assessment 1,Examination,SAMPLE ONLY - verify college date
-2026-11-20,Assignment Submission,Academic,SAMPLE ONLY - verify deadline
-2026-12-05,Internal Assessment 2,Examination,SAMPLE ONLY - verify college date
-2026-12-20,Semester Examination,Examination,SAMPLE ONLY - verify college date
-2026-12-25,Christmas Holiday,Holiday,SAMPLE ONLY - verify holiday
+academic_year,semester,date,event_type,title
+2026-27,3,2026-11-14,Holiday,Sample college holiday
+2026-27,3,2026-11-20,Academic,Sample last working day
+2026-27,3,2026-11-10,Academic,Sample academic event
